@@ -23,3 +23,10 @@ The voice of the few are equal to the voice of the many - we do not govern by mo
 Opinions and descent are important, but compromise should always be aimed for - not deadlock.
 
 Arguments must always be thought of as what's best for the group as a whole, rather than the individual.
+
+**Donation of Things & Materials:** We welcome donations!
+Things can either be loaned to the space or gifted to the space.
+
+If whatever's being brought in is going to make a lot of noise, smell strange to take up a lot of space, there should be a community-wide discussion about it being brought in first.
+
+If you don't want it to be hacked or changed, please place a DO NOT HACK sticker on it.
