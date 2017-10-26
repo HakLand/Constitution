@@ -20,7 +20,7 @@ This is not a hard and fast rule.
 
 The voice of the few are equal to the voice of the many - we do not govern by mob rule.
 
-Opinions and descent are important, but compromise should always be aimed for - not deadlock.
+Opinions and dissent are important, but compromise should always be aimed for - not deadlock.
 
 Arguments must always be thought of as what's best for the group as a whole, rather than the individual.
 
