@@ -3,7 +3,10 @@ The principles, ethos and reasons for how the Auckland Hackspace works
 
 # Guiding Principles
 **6 hour rule and “Do Not Hack”**
-Change and experimentation is more than welcome, even if you’re not sure how it will end up, but if any change to the space would take longer than 6 hours to put back as it was, please check on the mailing list before doing it.
+Change and experimentation is more than welcome, even if you’re not sure how it will end up, but if any change to the space would take longer than 6 hours for you to put back as it was, please create a loomio proposal before doing it.
+
+If people do not like the changes you have made, they may undo them or ask that you help put things back to how they were - it's therefore a good idea to first ask people and get them onboard with the changes.
+
 Also, you can use anything in the space for anything you’d like - parts or as part of another project - but if it has a DO NOT HACK sticker on it please leave it alone because it’s probably important.
 
 **Safety:** Some parts of the space are dangerous and some of the tools should not be used unless you know how to use them. If insure ask someone. If it has a red sticker, make sure you've been shown how to safely use the tool by someone before trying it.
