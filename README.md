@@ -10,6 +10,10 @@ Also, you can use anything in the space for anything you’d like - parts or as 
 
 If your about to make a bunch of noise, warn everyone and offer ear protection before switching stuff on.
 
+**Time Critical Projects:** You cannot join Hackland for a one off, time critical project. These inevitably create urgency / rushing which has a heavy toll on the space and safety. Examples of these include: Holiday Van Building, Set Design or anything with a deadline.
+
+Commercial spaces exist which can cater for this and are properly set up for the amount of work that this creates for everyone else.
+
 **Temporary Accomodation :** Hackland is not the place for emergency accomodation. No one should be spending the night or sleeping in the space. This may change in the future by method of consensus. *(Added **07/03/19** by Loomio decision)*
 
 **Non Exclusivity:** side rooms are available for running events in, but it’s important that others can always use the main space for their own thing even while your thing is going on. 
